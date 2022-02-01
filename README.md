@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZoberKro
+- 👋 Hi, I’m @ZoberKro or you can call me Francisco
 - 👀 I’m interested in learn programming languages and techniques
 - 🌱 I’m currently learning C, C++ and C#
 
